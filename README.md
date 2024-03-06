@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Java Development and OpenSource projects**
 
-- 🌱 I’m currently learning **Android develoopment in Kotlin**
+- 🌱 I’m currently learning **Android development in Kotlin**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
