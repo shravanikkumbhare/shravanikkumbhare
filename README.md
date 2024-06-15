@@ -1,4 +1,4 @@
-    
+     
 <h1 align="center">Hi 👋, I'm Shravani!</h1>
 <h3 align="center">I’m a Software Developer with a curious mind to explore and learn new skills</h3> 
 
